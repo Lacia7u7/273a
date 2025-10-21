@@ -1,0 +1,13 @@
+torch
+torch_geometric
+torchmetrics
+scikit-learn
+pandas
+numpy
+scipy
+matplotlib
+pydantic
+tensorboard
+tqdm
+pyarrow
+rich
